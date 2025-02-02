@@ -1,0 +1,103 @@
+
+Nome do host:                              LUIS-DAS-ARTIMA
+Nome do sistema operacional:               Microsoft Windows 10 Pro
+Vers∆o do sistema operacional:             10.0.19045 N/A compilaá∆o 19045
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   LUIS DAS ARTIMANHAS
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00330-80000-00000-AA677
+Data da instalaá∆o original:               15/12/2022, 22:07:07
+Tempo de Inicializaá∆o do Sistema:         14/02/2024, 18:07:28
+Fabricante do sistema:                     Acer
+Modelo do sistema:                         ChiefRiver Platform
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 42 Stepping 7 GenuineIntel ~1500 Mhz
+Vers∆o do BIOS:                            Phoenix Technologies Ltd. V1.22, 15/03/2013
+Pasta do Windows:                          C:\WINDOWS
+Pasta do sistema:                          C:\WINDOWS\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      5.938 MB
+Mem¢ria f°sica dispon°vel:                 1.937 MB
+Mem¢ria Virtual: Tamanho M†ximo:           12.594 MB
+Mem¢ria Virtual: Dispon°vel:               6.406 MB
+Mem¢ria Virtual: Em Uso:                   6.188 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\LUIS-DAS-ARTIMA
+Hotfix(es):                                21 hotfix(es) instalado(s).
+                                           [01]: KB5034466
+                                           [02]: KB5029714
+                                           [03]: KB4562830
+                                           [04]: KB5011048
+                                           [05]: KB5011067
+                                           [06]: KB5012170
+                                           [07]: KB5015684
+                                           [08]: KB5034763
+                                           [09]: KB5007273
+                                           [10]: KB5020372
+                                           [11]: KB5022924
+                                           [12]: KB5023794
+                                           [13]: KB5025315
+                                           [14]: KB5026879
+                                           [15]: KB5028318
+                                           [16]: KB5028380
+                                           [17]: KB5029709
+                                           [18]: KB5031539
+                                           [19]: KB5032392
+                                           [20]: KB5032907
+                                           [21]: KB5034224
+Placa(s) de Rede:                          8 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet Realteck PCIe GbE Family Controller
+                                                 Status:          M°dia desconectada
+                                           [02]: Qualcomm Atheros AR5B125 Wireless Network Adapter
+                                                 Nome da conex∆o: PC-Wi-Fi
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.6.3
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.6.132
+                                                 [02]: fe80::2a42:d636:b05d:fc14
+                                                 [03]: 2804:46cc:6050:0:89b3:47eb:40ed:36b9
+                                           [03]: Microsoft Wi-Fi Direct Virtual Adapter
+                                                 Nome da conex∆o: Conex∆o Local* 2
+                                                 DHCP ativado:    N∆o
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.137.1
+                                                 [02]: fe80::ac02:5398:f41c:3a25
+                                           [04]: Hyper-V Virtual Ethernet Adapter
+                                                 Nome da conex∆o: vEthernet (Ethernet Realte)
+                                                 DHCP ativado:    N∆o
+                                                 Endereáo(es) IP
+                                                 [01]: 172.17.48.1
+                                                 [02]: fe80::4e1f:e6f8:6490:e227
+                                           [05]: Hyper-V Virtual Ethernet Adapter
+                                                 Nome da conex∆o: vEthernet (Virtual Box Hos)
+                                                 DHCP ativado:    N∆o
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.176.1
+                                                 [02]: fe80::d221:c869:7668:2bc1
+                                           [06]: VirtualBox Host-Only Ethernet Adapter
+                                                 Nome da conex∆o: Virtual Box Host Ethernet
+                                                 DHCP ativado:    N∆o
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.56.1
+                                                 [02]: fe80::9061:2a1:2e5f:9c77
+                                           [07]: Hyper-V Virtual Ethernet Adapter
+                                                 Nome da conex∆o: vEthernet (PC-Wi-Fi)
+                                                 DHCP ativado:    N∆o
+                                                 Endereáo(es) IP
+                                                 [01]: 172.20.80.1
+                                                 [02]: fe80::3f36:6e56:5e33:b1ba
+                                           [08]: Hyper-V Virtual Ethernet Adapter
+                                                 Nome da conex∆o: vEthernet (Conex∆o Local  )
+                                                 DHCP ativado:    N∆o
+                                                 Endereáo(es) IP
+                                                 [01]: 172.28.144.1
+                                                 [02]: fe80::1c34:ba19:c897:ab9d
+Requisitos do Hyper-V:                     Hipervisor detectado. Recursos necess†rios para o Hyper-V n∆o ser∆o exibidos.

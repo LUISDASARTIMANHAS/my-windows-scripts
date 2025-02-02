@@ -1,0 +1,1 @@
+wmic process where name="code.exe" call setpriority "256"
