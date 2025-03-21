@@ -1,8 +1,6 @@
 @echo off
 setlocal EnableDelayedExpansion
 color 9F
-git config http.postBuffer 524288000
-git config http.lowSpeedTime 600
 
 :menu
 color 9F

@@ -1,6 +1,11 @@
 @echo off
 setlocal EnableDelayedExpansion
 set "saveFiles=%~dp0"
+set "src=%~dp0../"
+set "whoisInstall=%src%whoisInstall.cmd"
+
+start "Whois Update" /realtime /min winget install Microsoft.Sysinternals.Whois --silent
+start "Whois Install" /realtime /min "%whoisInstall%"
 
 :menu
 setlocal EnableDelayedExpansion
@@ -55,7 +60,7 @@ if %opcao% == 1 (
 ) else if %opcao% == 4 (
     set /p whoisIP=Digite o ip que deseja obter informacoes."192.168.1.1" 
 
-    echo O Whois Retornou: 
+    echo O Whois Retornou:
     Whois %whoisIP% -v
     echo salvando dados em %saveFiles%whois-logs.txt
     Whois %whoisIP% -v >> "%saveFiles%whois-logs.txt"
@@ -79,15 +84,20 @@ if %opcao% == 1 (
     pause
     goto :menu
 )  else if %opcao% == 7 (
-    set /p port=Digite a porta que deseja buscar ou monitorar. "8080" 
+    set /p port=Digite a porta que deseja buscar ou monitorar. "8080"
+
+    :repeat
+    cls
     echo Buscando E Monitorando %port%. Prescione CTRL + C para parar.
-    netstat -ano 10 | findstr :%port%
+    netstat -ano | findstr :%port%
+    TIMEOUT /T 10
+    goto :repeat
     
     pause
     goto :menu
 ) else if %opcao% == 8 (
-    set /p ender=Digite o endereco."192.168.1.1" ou "google.com" 
-    set /p ender=Confirme o endereco. 
+    set /p ender=Digite o endereco."192.168.1.1" ou "google.com"
+    set /p ender=Confirme o endereco.
 
     echo ===== ping ===== >> "%saveFiles%all-search.txt"
     ping %ender% -n 10
